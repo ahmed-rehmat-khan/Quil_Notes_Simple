@@ -47,7 +47,7 @@ There is **nothing to install**.
 
 ```bash
 # Clone the repo
-git clone https://github.com/codewithAR11/Quil_Notes_Simple.git
+git clone https://github.com/ahmed-rehmat-khan/Quil_Notes_Simple.git
 cd Quil_Notes_Simple
 
 # Open in your browser
@@ -78,7 +78,7 @@ Then visit `http://localhost:8000`.
 This repo is GitHub Pages ready. Enable Pages in **Settings → Pages → Deploy from branch → main / root**, and your notes app will be live at:
 
 ```
-https://codewithAR11.github.io/Quil_Notes_Simple/
+https://ahmed-rehmat-khan.github.io/Quil_Notes_Simple/
 ```
 
 ## 🗂️ Project Structure
@@ -147,7 +147,7 @@ Released under the [MIT License](./LICENSE). Do whatever you want with it — ju
 
 ## 👤 Author
 
-**Ahmed** — [@codewithAR11](https://github.com/codewithAR11)
+**Ahmed** — [@ahmed-rehmat-khan](https://github.com/ahmed-rehmat-khan)
 
 > Built with care for people who just want to write.
 
